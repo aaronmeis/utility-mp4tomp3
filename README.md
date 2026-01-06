@@ -2,6 +2,8 @@
 
 This Python script extracts audio from an MP4 video file and automatically names the resulting MP3 file based on the first person's name mentioned in the video introduction.
 
+![Overview](./unnamed.png)
+
 ## Features
 
 - Extracts audio from MP4 videos to MP3 format
